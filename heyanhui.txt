@@ -1,2 +1,0 @@
-learn vim.y!
-try!
